@@ -7,3 +7,6 @@
 [submodule "sensei-ui"]
 	path = sensei-ui
 	url = https://github.com/sensei-software/sensei-ui
+[submodule "sensei-firmware"]
+	path = sensei-firmware
+	url = https://github.com/sensei-software/sensei-firmware
