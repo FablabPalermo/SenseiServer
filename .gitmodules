@@ -10,3 +10,6 @@
 [submodule "sensei-firmware"]
 	path = sensei-firmware
 	url = https://github.com/sensei-software/sensei-firmware
+[submodule "sensei-setup"]
+	path = sensei-setup
+	url = https://github.com/sensei-software/sensei-setup
