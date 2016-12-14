@@ -4,3 +4,6 @@
 [submodule "sensei-api"]
 	path = sensei-api
 	url = https://github.com/sensei-software/sensei-api
+[submodule "sensei-ui"]
+	path = sensei-ui
+	url = https://github.com/sensei-software/sensei-ui
