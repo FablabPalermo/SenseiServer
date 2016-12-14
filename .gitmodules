@@ -1,0 +1,3 @@
+[submodule "sensei-server"]
+	path = sensei-server
+	url = https://github.com/sensei-software/sensei-server
